@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "HexaChessInput",
+    "maps": [
+        {
+            "name": "HexaChessAction",
+            "id": "ba121a6a-89bf-4027-a7c2-dc6d43fb643f",
+            "actions": [
+                {
+                    "name": "ClaimTest",
+                    "type": "Button",
+                    "id": "92a87da9-58bf-4a78-a2df-aac4e45172cc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cdc3e01d-771c-4686-92ac-3215f789a1da",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ClaimTest",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
